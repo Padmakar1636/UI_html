@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "same@yahoo.com",
+      "password": "Abd#123@",
+      "id": 1
+    },
+    {
+      "email": "sachinsara.singh@gmail.com",
+      "password": "Sachin@007",
+      "id": 2
+    },
+    {
+      "email": "hemantkrmahato@gmail.com",
+      "password": "Hemant@123",
+      "id": 3
+    }
+  ]
+}
